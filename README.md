@@ -9,8 +9,8 @@ go -v
 
 ```sh
 # clone repo locally
-git clone <url>
-cd <dir>
+git clone https://github.com/aintnodev/pairs.git
+cd pairs
 
 # install project dependencies
 go mod tidy
