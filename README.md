@@ -1,4 +1,4 @@
-# pair-api: wtf i build this?
+# Pairs: WTF I build this?
 
 ## Installation
 
